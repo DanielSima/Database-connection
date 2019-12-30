@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace DBConnect
 {
+    //not updated, see MSSQL for current version
     /// <summary>
     /// Connection to the Oracle DBMS.
     /// </summary>
